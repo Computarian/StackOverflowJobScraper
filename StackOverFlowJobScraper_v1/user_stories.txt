@@ -1,0 +1,3 @@
+As a user, I want to scroll through a list of Stack Overflow Jobs postings, so I can find a job within 50 miles of Bridgewater, MA
+
+As a user, I want to see a link on the list of Stack Overflow Jobs postings, so I can visit the url and collect more information about the job, I do not want to click the link because I am not a picky user.

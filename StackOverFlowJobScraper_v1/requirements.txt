@@ -1,0 +1,17 @@
+Python Libraries used:
+
+import requests
+from bs4 import BeautifulSoup
+import textwrap
+from nltk.tokenize import sent_tokenize
+from requests.exceptions import ConnectionError
+from tkinter import *
+import time
+
+Pytest used for testing module
+
+Pyinstaller Notes:
+On further reading of documentation, Pyinstaller only makes an executable for the system OS it's made on.
+
+running pyinstaller on the script on a computer with all the libraries should make a successful executable file
+>pyinstaller StackOverFlowScraper.py
